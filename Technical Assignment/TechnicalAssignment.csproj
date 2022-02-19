@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Technical_Assignment</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="colors.jpg" />
+    <None Remove="Create project.jpg" />
+    <None Remove="Image 2-16-22 at 2.19 PM.jpg" />
+    <None Remove="Open Project.jpg" />
+    <None Remove="Open Project.png" />
+    <None Remove="Recent project.jpg" />
+    <None Remove="Resources\docx.png" />
+    <None Remove="Resources\pdf.png" />
+    <None Remove="Resources\text.png" />
+    <None Remove="White Background.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\docx.png" />
+    <Resource Include="Resources\pdf.png" />
+    <Resource Include="Resources\text.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="colors.jpg" />
+    <Resource Include="Create project.jpg" />
+    <Resource Include="Image 2-16-22 at 2.19 PM.jpg" />
+    <Resource Include="Open Project.jpg" />
+    <Resource Include="Open Project.png" />
+    <Resource Include="Recent project.jpg" />
+    <Resource Include="White Background.jpg" />
+  </ItemGroup>
+
+</Project>
