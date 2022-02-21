@@ -9,4 +9,4 @@
 ### With Binaries
 - Step1- first download the Binaries
 - Step2- Extract the Binaries
-- Step3- Open the TechnicalAssignment.exe
+- Step3- Open the TechnicalAssignment.exe (Application)
