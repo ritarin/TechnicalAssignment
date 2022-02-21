@@ -1,5 +1,5 @@
 # TechnicalAssignment
-## Getting started wit release V1.0.0
+## Getting started with release V1.0.0
  
 ### With Source code
 - Step1- Make sure you have visual studio install
